@@ -1,158 +1,220 @@
 <div align="center">
 
-# 👋 Hey, I'm Saumy Pandey
+# SAUMY PANDEY
 
-### 💻 Software Developer · Full-Stack Developer · SaaS Builder
+### Software Developer · Full-Stack Engineer · SaaS Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Full-Stack+%7C+Backend+%7C+Real-Time+Systems;Turning+ideas+into+production-ready+software;Always+learning%2C+building+and+improving+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+scalable+software+systems;Full-Stack+%7C+Backend+%7C+Real-Time;SaaS+%7C+AI+%7C+Cloud+Applications;Clean+code.+Strong+architecture.+Continuous+learning." />
 
-<p>
-  <a href="https://github.com/saumypandey745">
-    <img src="https://img.shields.io/github/followers/saumypandey745?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/saumypandey745?tab=repositories">
-    <img src="https://img.shields.io/github/stars/saumypandey745?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-  <a href="https://saumyportfolio74.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://saumyportfolio74.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/saumypandey745">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Engineering Profile
 
 ```text
-Software Developer focused on building scalable, secure and maintainable applications.
+Software Developer focused on designing and building reliable,
+scalable and maintainable web applications.
 
-→ Full-Stack Web Development
-→ Backend & API Architecture
-→ Multi-Tenant SaaS Applications
-→ Real-Time Systems & WebSockets
-→ Database Design & ORM
-→ AI-powered Applications & Integrations
-→ Clean, scalable and production-ready code
+I work across:
+
+→ Frontend architecture
+→ Backend & API development
+→ Database design
+→ Real-time communication
+→ Multi-tenant SaaS systems
+→ AI integrations
+→ Security & performance
+→ Testing & deployment
 ```
 
-I enjoy working across the entire software lifecycle — from architecture and database design to APIs, frontend interfaces, testing and deployment.
+My approach is simple:
+
+> **Understand the problem → design the system → build cleanly → test → improve.**
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Selected Engineering Work
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📞 Nucleus Signal
 
-A multi-tenant call intelligence platform focused on:
+**Call Intelligence & Tracking Platform**
 
-* ☎️ Call tracking
-* 🎙️ Call recordings
-* ⚡ Real-time communication
-* 🤖 AI transcription & analysis
-* 📊 Analytics
-* 👥 RBAC & multi-tenancy
+Multi-tenant B2B SaaS platform for call tracking, recordings, analytics and AI-powered call intelligence.
+
+**Core engineering**
+
+`React` `Node.js` `Express` `Prisma`
+`PostgreSQL` `WebSockets` `Telnyx` `Deepgram`
+
+<br/>
+
+<a href="https://github.com/saumypandey745">
+<img src="https://img.shields.io/badge/View%20Project-21262d?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📦 FlexiManage ERP
 
-A modular ERP platform designed around:
+**Modular Business Management Platform**
 
-* 🏢 Multi-tenancy
-* 👥 RBAC & user management
-* 🤝 CRM
-* 📦 Inventory
-* 💰 Finance
-* 🔌 REST APIs
-* 🗄️ PostgreSQL
+Full-stack ERP architecture covering CRM, inventory, finance, users and role-based access.
+
+**Core engineering**
+
+`NestJS` `Prisma` `PostgreSQL`
+`Redis` `REST API` `RBAC`
+
+<br/>
+
+<a href="https://github.com/saumypandey745">
+<img src="https://img.shields.io/badge/View%20Project-21262d?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🔐 AI Website Security Assessment
 
-AI-assisted security assessment platform featuring:
+**AI-Assisted Security Platform**
 
-* 🔎 Attack-surface analysis
-* 🛡️ Security posture checks
-* 🤖 AI analyst insights
-* 📋 Security reports
-* ⚙️ Automated assessment workflows
+Read-only website security assessment system focused on attack-surface visibility, security posture and AI-assisted analysis.
+
+**Core engineering**
+
+`Node.js` `TypeScript` `React`
+`PostgreSQL` `Redis` `BullMQ`
+
+<br/>
+
+<a href="https://github.com/saumypandey745">
+<img src="https://img.shields.io/badge/View%20Project-21262d?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 DropX
 
-Peer-to-peer file transfer application with a focus on:
+**Peer-to-Peer File Transfer**
 
-* 🔄 Direct device communication
-* 🌐 Network traversal
-* 📁 File transfer
-* ⚡ Real-time connection handling
+Real-time peer-to-peer file transfer application designed for direct device communication.
+
+**Core engineering**
+
+`JavaScript` `WebRTC` `WebSockets`
+`STUN` `TURN` `Networking`
+
+<br/>
+
+<a href="https://github.com/saumypandey745">
+<img src="https://img.shields.io/badge/View%20Project-21262d?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,nginx" />
-</p>
-
-### Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## 🧰 Technology Stack
 
 <div align="center">
 
-<a href="https://github.com/saumypandey745">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saumypandey745&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-</a>
+### Languages
 
-<a href="https://github.com/saumypandey745">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumypandey745&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,nginx" />
+
+### Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+
+</div>
+
+---
+
+## 🏗️ Engineering Focus
+
+<div align="center">
+
+| Area            | Focus                                 |
+| --------------- | ------------------------------------- |
+| 🧩 Architecture | Scalable & maintainable systems       |
+| ⚡ Backend       | APIs, services & business logic       |
+| 🔄 Real-Time    | WebSockets & communication systems    |
+| 🗄️ Data        | PostgreSQL, Prisma & Redis            |
+| 🏢 SaaS         | Multi-tenant architectures            |
+| 🤖 AI           | AI APIs & intelligent automation      |
+| 🔐 Security     | Secure-by-design development          |
+| 🚀 DevOps       | Deployment, monitoring & optimization |
+
+</div>
+
+---
+
+## 📊 GitHub Engineering Stats
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=saumypandey745&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=saumypandey745&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saumypandey745&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saumypandey745&layout=compact&hide_border=true&theme=tokyonight"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saumypandey745&layout=compact&hide_border=true&theme=default"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumypandey745&layout=compact" />
+</picture>
 
 </div>
 
@@ -162,46 +224,79 @@ Peer-to-peer file transfer application with a focus on:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=saumypandey745&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=saumypandey745&theme=tokyonight&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=saumypandey745&theme=default&hide_border=true"
+  />
+  <img src="https://streak-stats.demolab.com?user=saumypandey745&hide_border=true" />
+</picture>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumypandey745&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumypandey745&hide_border=true&area=true&radius=8" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Current Engineering Interests
 
 ```text
-🔹 Building scalable SaaS architectures
-🔹 Improving backend architecture & API design
-🔹 Real-time applications & WebSocket systems
-🔹 AI integrations & intelligent automation
-🔹 Database optimization
-🔹 Security-first development
-🔹 Writing clean, maintainable and production-ready code
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   Scalable SaaS        → Multi-tenant architectures       │
+│   Backend Engineering  → APIs & distributed services      │
+│   Real-Time Systems    → WebSockets & event-driven apps   │
+│   AI Engineering       → LLM & intelligent automation     │
+│   Security             → Secure application architecture  │
+│   Databases            → Performance & data modelling     │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio
 
 <div align="center">
 
+### Explore my work
+
 <a href="https://saumyportfolio74.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-Visit%20Website-36BCF7?style=for-the-badge" />
 </a>
 
+<br/><br/>
+
+<a href="https://saumy-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Alternative%20Deployment-21262d?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
 <a href="https://github.com/saumypandey745">
-<img src="https://img.shields.io/badge/GitHub-saumypandey745-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Saumy%20Pandey-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://saumyportfolio74.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -210,12 +305,12 @@ Peer-to-peer file transfer application with a focus on:
 
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+### `BUILD • LEARN • IMPROVE`
 
-<img src="https://komarev.com/ghpvc/?username=saumypandey745&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=saumypandey745&label=PROFILE%20VIEWS&style=flat-square" />
 
 <br/><br/>
 
-⭐ If you find something useful here, consider giving it a star!
+⭐ Thanks for visiting my profile.
 
 </div>
